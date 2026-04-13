@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentación personal</title>
+</head>
+<body>
+    <h1>Presentación personal</h1>
+    <p>Mi nombre es Carolina Flores Delgado</p>
+    <ul>Estas son las cosas que me gustan:
+        <li>
+            HTML
+        </li>
+        <li>Animación</li>
+        <li>Motion graphics</li>
+    
+    </ul>
+    <p>Estas es una practica <strong>importante</strong> pero al mismo tiempo quiero divertirme <br>Por eso no puedo esperar la segunda clase!</p>
+</body>
+</html>
