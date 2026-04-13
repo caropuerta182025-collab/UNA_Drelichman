@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentación Personal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f9f9f9;
+            color: #333;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #4CAF50;
+            text-align: center;
+        }
+        h2 {
+            color: #333;
+            margin-top: 30px;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #e91e63;
+        }
+        .footer {
+            margin-top: 40px;
+            text-align: center;
+            font-style: italic;
+            color: #777;
+        }
+        </style>
+<body>
+    <h1>¡Hola, soy Carolina Flores Delgado!</h1>
+    <p>
+        Soy una persona apasionada por la creatividad digital y me encanta explorar nuevas formas de expresión visual.
+        Mis intereses combinan <span class="highlight">tecnología</span> y <span class="highlight">arte</span>, 
+        siempre buscando aprender y divertirme en el proceso.
+    </p>
+
+    <h2>Lo que me gusta</h2>
+    <ul>
+        <li>HTML y desarrollo web</li>
+        <li>Animación</li>
+        <li>Motion Graphics</li>
+    </ul>
+
+    <h2>Mi motivación</h2>
+    <p>
+        Esta práctica es <span class="highlight">importante</span> para mi formación, 
+        pero también quiero disfrutar cada paso del camino.  
+        ¡No puedo esperar a la segunda clase para seguir creando!
+    </p>
+
+    <div class="footer">
+        ✨ “Aprender es divertido cuando lo conviertes en arte.” ✨
+    </div>
+
+    <!--Mayormente la Ia redacto de una manera más entusiasmada el texto además de poner un footer y la etiqueta class y style para cambiar el color de las letras y fuentes-->
+</body>
+</html>
